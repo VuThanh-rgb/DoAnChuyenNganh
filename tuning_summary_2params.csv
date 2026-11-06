@@ -1,0 +1,4 @@
+Method,n_evals,CV-F1 mean,CV-F1 std,CV-F1 best,Time mean (s),Time std (s)
+Grid Search,64,0.3572,0.0,0.3572,21.2514,0.0
+Random Search,64,0.359,0.0031,0.3634,11.616,1.0733
+PSO,64,0.3627,0.0019,0.3654,40.3702,1.6365
